@@ -26,6 +26,18 @@ function App() {
           about myself and some of the projects I've worked on over the years in my academic career.
         </p>
       </div>
+      <div className="education" id="education">
+        <h1>Education</h1>
+        <h3>University of Cincinnati</h3>
+        <p>I transferred over to the University of Cincinnati to pursue a bachelor's degree in Information Technology, specializing in
+          software development. I am currently on track to graduate in the spring of 2025.
+        </p>
+        <h3>Cincinnati State</h3>
+        <p>I graduated from Cincinnati State with an asssociate's degree in Computer Information Systems in the spring of 2022.
+          I primarily learned things related to programming, with some focus in business as well, ranging from accounting to managerial
+          finance. 
+        </p>
+      </div>
       <div className="projects" id="projects">
         <h1>Projects</h1>
         <div className="planner">
@@ -72,18 +84,6 @@ function App() {
             their donors, and event year.
           </p>
         </div>
-      </div>
-      <div className="education" id="education">
-        <h1>Education</h1>
-        <h3>University of Cincinnati</h3>
-        <p>I transferred over to the University of Cincinnati to pursue a bachelor's degree in Information Technology, specializing in
-          software development. I am currently on track to graduate in the spring of 2025.
-        </p>
-        <h3>Cincinnati State</h3>
-        <p>I graduated from Cincinnati State with an asssociate's degree in Computer Information Systems in the spring of 2022.
-          I primarily learned things related to programming, with some focus in business as well, ranging from accounting to managerial
-          finance. 
-        </p>
       </div>
       <div className="personal" id="personal">
         <h1>Personal Interests</h1>
