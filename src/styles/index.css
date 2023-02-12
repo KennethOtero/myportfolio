@@ -21,6 +21,13 @@ body {
     border-radius: 12px;
 }
 
+.video {
+    height: 600px;
+    width: 100%;
+    display: block;
+    border-radius: 12px;
+}
+
 /* Navigation bar styling */
 .navbar {
     width: 30%;
