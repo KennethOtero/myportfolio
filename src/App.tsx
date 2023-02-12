@@ -2,8 +2,6 @@
 import MyPlanner from './images/MyPlanner.png';
 import Snake from './images/Snake.png';
 import SQL from './images/SQL.png';
-import RiverRoad from './images/RiverRoad.png';
-import WebApp from './images/WebApp.png';
 import CSM from './images/CSM.jpg';
 import './styles/index.css';
 
