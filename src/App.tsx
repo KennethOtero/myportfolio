@@ -67,7 +67,7 @@ function App() {
         </div>
         <div className="river">
           <h3><a href="https://youtu.be/X4gnrcPnLkc" target="_blank" rel="noreferrer">River Road Auto Care</a></h3>
-          <img src={RiverRoad} alt="River Road Auto Care Homepage" className="screenshot"/>
+          <iframe className="screenshot" src="https://youtu.be/X4gnrcPnLkc"></iframe>
           <p>This website served as a capstone project over at Cincinnati State and was aimed at creating a website for a local
             automotive repair shop in Cincinnati. I worked with a team to create this website, and I worked on our homepage, database, 
             reviews, and the front end for the site's various forms. It was built using PHP with a MySQL database to store customer
@@ -76,7 +76,7 @@ function App() {
         </div>
         <div className="golf">
           <h3><a href="https://youtu.be/lyTrS-Kz25A" target="_blank" rel="noreferrer">Web App Development Final</a></h3>
-          <img src={WebApp} alt="Golfathon Homepage" className="screenshot"/>
+          <iframe className="screenshot" src="https://youtu.be/lyTrS-Kz25A"></iframe>
           <p>I built a web based application for my Web App Development class over at Cincinnati State to serve as a homepage for
             a hypothetical golfing event at Cincinnati State. The website was built using PHP and utilizes a MySQL database to store user
             and event related information. The website provides a visitor with statistical information regarding an event, such as donor
